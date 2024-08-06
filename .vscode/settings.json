@@ -1,0 +1,4 @@
+{
+    "bloc.newBlocTemplate.createDirectory": false,
+    "bloc.newBlocTemplate.type": "equatable"
+}
